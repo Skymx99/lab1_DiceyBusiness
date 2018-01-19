@@ -1,0 +1,15 @@
+.die {
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+    display: inline-block;
+    
+    
+}
+
+#container {
+    position: relative;
+    
+    font-size: 3em;
+    width: 1000px;
+}
